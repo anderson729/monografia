@@ -1,6 +1,6 @@
 # Preparación de Datos - Ciencia de Datos
 
-Este proyecto forma parte de una monografía para la carrera de Ciencia de Datos. Se centra en la preparación de un conjunto de datos alimenticios con el objetivo de analizar productos procesados y ultraprocesados.
+Este proyecto forma parte de una monografía para la especializacion de Analitica y Ciencia de Datos de la Universidad de Antioquia. Se centra en la preparación de un conjunto de datos de productos alimenticios.
 
 ## Objetivo
 
@@ -35,7 +35,8 @@ Este proyecto forma parte de una monografía para la carrera de Ciencia de Datos
 ## Ejecución
 
 1. Clona este repositorio.
-2. Asegúrate de tener todas las dependencias instaladas:
+2. Descargar dataset de drive: https://drive.google.com/file/d/1vH7PDNwF9WzQ0TMhh-vPafP8JIj50HUV/view?usp=sharing
+3. Asegúrate de tener todas las dependencias instaladas:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn unidecode
@@ -49,8 +50,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn unidecode
 
 ## Autor
 
+Anderson Fabian Blanco Jaimes
 Este trabajo fue desarrollado como parte de una monografía de Ciencia de Datos.
 
----
-
-Para cualquier duda o extensión futura, puedes adaptar este flujo a otros conjuntos de datos similares.
